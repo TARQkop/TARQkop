@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0080FF&height=280&section=header&text=Tariq%20Ziad&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Backend%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D4FF,100:0080FF&amp;height=280&amp;section=header&amp;text=Tariq%20Ziad&amp;fontSize=72&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Flutter%20%26%20Backend%20Developer%20%7C%20IT%20Student&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+with+Flutter+%26+Node.js;Crafting+Full-Stack+Web+%26+Mobile+Apps;Diving+into+AI+Integration+%26+System+Design;Open+to+Internships+%26+Junior+Roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+with+Flutter+%26+Node.js;Crafting+Full-Stack+Web+%26+Mobile+Apps;Diving+into+AI+Integration+%26+System+Design;Open+to+Internships+%26+Junior+Roles" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/tariq--/"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" /></a>
-<a href="mailto:tariq124@gmail.com"><img src="https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" /></a>
-<a href="https://portfolio-tariq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" /></a>
-<a href="https://github.com/TARQkop"><img src="https://img.shields.io/badge/Follow-00D4FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/tariq--/"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
+<a href="mailto:tariq124@gmail.com"><img src="https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
+<a href="https://portfolio-tariq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
+<a href="https://github.com/TARQkop"><img src="https://img.shields.io/badge/Follow-00D4FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TARQkop&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/followers/TARQkop?label=FOLLOWERS&style=for-the-badge&color=00D4FF&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=TARQkop&amp;label=PROFILE%20VIEWS&amp;color=00D4FF&amp;style=for-the-badge&amp;labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/TARQkop?label=FOLLOWERS&amp;style=for-the-badge&amp;color=00D4FF&amp;labelColor=0D1117"/>
 
 </div>
 
@@ -95,27 +95,27 @@ class SoftwareEngineer:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=dart,js,ts,py,cpp,html,css&theme=dark" height="52"/>
+<img src="https://skillicons.dev/icons?i=dart,js,ts,py,cpp,html,css&amp;theme=dark" height="52"/>
 
 <br/><br/>
 
 **Frameworks & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,express,react,tailwind,firebase,figma,git,github,vscode&theme=dark" height="52"/>
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,express,react,tailwind,firebase,figma,git,github,vscode&amp;theme=dark" height="52"/>
 
 <br/><br/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="52"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&amp;theme=dark" height="52"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black"/>
 
 <br/><br/>
 
 **Exploring Next**
 <br/>
-<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=for-the-badge&logoColor=00D4FF&color=00D4FF"/>
-<img src="https://skillicons.dev/icons?i=docker,gcp&theme=dark" height="36"/>
+<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=for-the-badge&amp;logoColor=00D4FF&amp;color=00D4FF"/>
+<img src="https://skillicons.dev/icons?i=docker,gcp&amp;theme=dark" height="36"/>
 
 </div>
 
@@ -127,13 +127,13 @@ class SoftwareEngineer:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TARQkop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=TARQkop&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TARQkop&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=TARQkop&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00D4FF&amp;fire=00D4FF&amp;currStreakLabel=00D4FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=TARQkop&theme=algolia&no-frame=true&column=3&margin-w=8&margin-h=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=TARQkop&amp;theme=algolia&amp;no-frame=true&amp;column=3&amp;margin-w=8&amp;margin-h=8"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TARQkop&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&radius=8"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TARQkop&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;radius=8"/>
 
 </div>
 
@@ -162,7 +162,7 @@ class SoftwareEngineer:
 **An AI-powered student assistant** built with Flutter, Node.js, PostgreSQL, and AI APIs.
 Chat with AI · Generate quizzes from PDFs · Build study plans · Summarize content · Track progress.
 
-<img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=0D1117&amp;labelColor=0D1117"/>
 
 <sub>🔗 nova-web-bub7.vercel.app</sub>
 
@@ -242,7 +242,7 @@ belief:   consistency > intensity
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight"/>
 
 </div>
 
@@ -254,10 +254,10 @@ belief:   consistency > intensity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tariq--/"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" height="42"/></a>
-<a href="mailto:tariq124@gmail.com"><img src="https://img.shields.io/badge/Gmail-00D4FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" height="42"/></a>
-<a href="https://github.com/TARQkop"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" height="42"/></a>
-<a href="https://portfolio-tariq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" height="42"/></a>
+<a href="https://www.linkedin.com/in/tariq--/"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
+<a href="mailto:tariq124@gmail.com"><img src="https://img.shields.io/badge/Gmail-00D4FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
+<a href="https://github.com/TARQkop"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
+<a href="https://portfolio-tariq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
 
 <br/><br/>
 
@@ -273,6 +273,6 @@ belief:   consistency > intensity
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,50:00D4FF,100:0D1117&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0080FF,50:00D4FF,100:0D1117&amp;height=180&amp;section=footer"/>
 
 </div>
