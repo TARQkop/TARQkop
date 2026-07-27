@@ -138,10 +138,10 @@ class SoftwareEngineer:
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TARQkop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tariq's GitHub Stats" />
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=TARQkop&theme=tokyonight&hide_border=true" />
+<img width="49%" height="195px" src="https://github-stats.com/api?username=TARQkop&theme=tokyonight&hide_border=true" alt="Tariq's GitHub Stats" />
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=TARQkop&theme=tokyonight&hide_border=true" />
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&layout=donut&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TARQkop&theme=tokyonight" />
 
 </div>
