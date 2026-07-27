@@ -9,20 +9,20 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/tariq--/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:tariq124@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/TARQkop">
     <img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=TARQkop&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/TARQkop?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
 </p>
 
 <br/>
@@ -168,17 +168,17 @@ class SoftwareEngineer:
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Tariq's GitHub Stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TARQkop&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Tariq's GitHub Stats" /> 
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=TARQkop&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 
-<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&radius=8" />
+<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=TARQkop&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&radius=8" />
 
 </div>
 
@@ -190,19 +190,21 @@ class SoftwareEngineer:
 
 <div align="center">
 
-### 🧠 Nova AI
+### 🧠 [Nova AI](https://nova-web-bub7.vercel.app/)
 
 <p>An AI-powered student assistant built with Flutter, Node.js, PostgreSQL, and AI APIs. It helps students chat with AI, generate quizzes from PDFs, create study plans, summarize educational content, and track learning progress.</p>
+
+<p>🔗 <b>Live:</b> https://nova-web-bub7.vercel.app/</p>
 
 </div>
 
 ### 📂 Other Projects
 
-- 🌐 Portfolio Website
-- 🍽️ Restaurant Website
+- 🌐 [Portfolio Website](https://portfolio-tariq.vercel.app/)
+- 🍽️ [Restaurant Website](https://restaurant-website-1i2g.vercel.app/)
 - ✅ Task Management
-- 🖥️ System Monitor
-- 🎮 2D Python Game
+- 🖥️ [System Monitor](https://github.com/TARQkop/Java-System-Monitor)
+- 🎮 [2D Python Game](https://github.com/TARQkop/2D-game)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -292,16 +294,16 @@ belief: consistency > intensity
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/tariq--/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:tariq124@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/TARQkop">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </a>
-<a href="https://your-portfolio.com">
+<a href="https://portfolio-tariq.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
 </a>
 
@@ -309,10 +311,10 @@ belief: consistency > intensity
 
 ### 📬 Best Way to Reach Me
 
-**💼 Professional Inquiries:** https://linkedin.com/in/yourusername  
-**📧 Direct Contact:** your@email.com  
+**💼 Professional Inquiries:** https://www.linkedin.com/in/tariq--/  
+**📧 Direct Contact:** tariq124@gmail.com  
 **💻 Collaboration:** Open an issue or discussion on GitHub  
-**🌐 Portfolio:** https://your-portfolio.com
+**🌐 Portfolio:** https://portfolio-tariq.vercel.app/
 
 <br/>
 
