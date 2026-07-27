@@ -138,11 +138,11 @@ class SoftwareEngineer:
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TARQkop&show_icons=true&theme=tokyonight&hide_border=true" alt="Tariq's GitHub Stats" />
-<img width="49%" height="195px" src="https://streak-stats.demolab.com?user=TARQkop&theme=tokyonight&hide_border=true" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TARQkop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tariq's GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=TARQkop&theme=tokyonight&hide_border=true" />
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=TARQkop&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&radius=8" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TARQkop&theme=tokyonight" />
 
 </div>
 
