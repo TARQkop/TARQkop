@@ -1,278 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00D4FF,100:0080FF&amp;height=280&amp;section=header&amp;text=Tariq%20Ziad&amp;fontSize=72&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Flutter%20%26%20Backend%20Developer%20%7C%20IT%20Student&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+# ⚡ TARIQ ZIAD ⚡
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=IT+Student;Flutter+Developer;Full-Stack+Developer;AI+Application+Developer" height="70" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+with+Flutter+%26+Node.js;Crafting+Full-Stack+Web+%26+Mobile+Apps;Diving+into+AI+Integration+%26+System+Design;Open+to+Internships+%26+Junior+Roles" alt="Typing SVG"/>
-</a>
+<br><br>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/tariq--/"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
-<a href="mailto:tariq124@gmail.com"><img src="https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
-<a href="https://portfolio-tariq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
-<a href="https://github.com/TARQkop"><img src="https://img.shields.io/badge/Follow-00D4FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TARQkop&amp;label=PROFILE%20VIEWS&amp;color=00D4FF&amp;style=for-the-badge&amp;labelColor=0D1117"/>
-<img src="https://img.shields.io/github/followers/TARQkop?label=FOLLOWERS&amp;style=for-the-badge&amp;color=00D4FF&amp;labelColor=0D1117"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 🧠 About Me
-
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name          = "Tariq Ziad"
-        self.role          = "IT Student"
-        self.institution   = "Technical Institute"
-        self.location      = "Duhok, Iraq 🇮🇶"
-        self.focus         = "Full-Stack Development"
-
-    def skills(self) -> dict:
-        return {
-            "languages":  ["Dart", "JavaScript", "TypeScript", "Python", "C++"],
-            "stack":      ["Flutter", "Node.js", "Express.js", "React", "Tailwind CSS"],
-            "databases":  ["PostgreSQL", "SQLite", "Firebase"],
-            "learning":   ["AI Integration", "System Design", "Docker", "Cloud"],
-        }
-
-    def philosophy(self) -> str:
-        return "Learn by building, not just watching."
-```
-
-<br/>
-
-> *"An IT student passionate about building modern, high-performance, user-friendly applications — solving real-world problems through clean code, thoughtful UI, and solid backend architecture."*
-
-<br clear="right"/>
-
-<table width="100%">
-  <tr>
-    <td width="15%" align="center">🎓</td>
-    <td width="25%"><b>Education</b></td>
-    <td>Diploma in Computer Science — Technical Institute (2023 – Present)</td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
-    <td><b>Current Goal</b></td>
-    <td>Internship or Junior Full-Stack / Mobile Developer role</td>
-  </tr>
-  <tr>
-    <td align="center">🔥</td>
-    <td><b>Built With</b></td>
-    <td>Flutter · Node.js · PostgreSQL · Firebase · React</td>
-  </tr>
-  <tr>
-    <td align="center">🌱</td>
-    <td><b>Learning Now</b></td>
-    <td>AI Integration · System Design · Docker · Cloud</td>
-  </tr>
-  <tr>
-    <td align="center">🤝</td>
-    <td><b>Open To</b></td>
-    <td>Internships · Junior Roles · Open Source Collaboration</td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=dart,js,ts,py,cpp,html,css&amp;theme=dark" height="52"/>
-
-<br/><br/>
-
-**Frameworks & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,express,react,tailwind,firebase,figma,git,github,vscode&amp;theme=dark" height="52"/>
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&amp;theme=dark" height="52"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black"/>
-
-<br/><br/>
-
-**Exploring Next**
-<br/>
-<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=for-the-badge&amp;logoColor=00D4FF&amp;color=00D4FF"/>
-<img src="https://skillicons.dev/icons?i=docker,gcp&amp;theme=dark" height="36"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TARQkop&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=TARQkop&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00D4FF&amp;fire=00D4FF&amp;currStreakLabel=00D4FF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARQkop&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=TARQkop&amp;theme=algolia&amp;no-frame=true&amp;column=3&amp;margin-w=8&amp;margin-h=8"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TARQkop&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;radius=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/TARQkop/TARQkop/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — updates daily from real contribution activity.</sub>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 🚀 Featured Project
-
-<div align="center">
-
-### 🧠 [Nova AI](https://nova-web-bub7.vercel.app/)
-
-**An AI-powered student assistant** built with Flutter, Node.js, PostgreSQL, and AI APIs.
-Chat with AI · Generate quizzes from PDFs · Build study plans · Summarize content · Track progress.
-
-<img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=0D1117&amp;labelColor=0D1117"/>
-
-<sub>🔗 nova-web-bub7.vercel.app</sub>
-
-</div>
-
-<br/>
-
-### 📂 Other Projects
-
-<table width="100%">
-  <tr>
-    <td>🌐</td>
-    <td><a href="https://portfolio-tariq.vercel.app/"><b>Portfolio Website</b></a></td>
-    <td>Personal developer portfolio</td>
-  </tr>
-  <tr>
-    <td>🍽️</td>
-    <td><a href="https://restaurant-website-1i2g.vercel.app/"><b>Restaurant Website</b></a></td>
-    <td>Modern restaurant landing page</td>
-  </tr>
-  <tr>
-    <td>✅</td>
-    <td><b>Task Management App</b></td>
-    <td>Productivity & task-tracking app</td>
-  </tr>
-  <tr>
-    <td>🖥️</td>
-    <td><a href="https://github.com/TARQkop/Java-System-Monitor"><b>System Monitor</b></a></td>
-    <td>Java-based system resource monitor</td>
-  </tr>
-  <tr>
-    <td>🎮</td>
-    <td><a href="https://github.com/TARQkop/2D-game"><b>2D Python Game</b></a></td>
-    <td>2D game built in Python</td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 💭 Philosophy
-
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-**Learning Style**
-
-```yaml
-approach: hands-on
-mindset:  growth-oriented
-method:   learn → build → improve → repeat
-belief:   consistency > intensity
-```
-
-</td>
-<td width="50%" valign="top">
-
-**Core Values**
-
-- 📚 Continuous Learning
-- 🔨 Building Over Watching
-- 🤝 Community Contribution
-- 💡 Problem-Solving First
-- 🎯 Quality Over Quantity
-
-</td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48"/>
+    <br>Flutter
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=dart" width="48"/>
+    <br>Dart
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48"/>
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48"/>
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=javascript" width="48"/>
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48"/>
+    <br>HTML
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48"/>
+    <br>CSS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
+    <br>Tailwind
+  </td>
 </tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48"/>
+    <br>Express
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=python" width="48"/>
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+    <br>Firebase
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="48"/>
+    <br>SQLite
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=hive" width="48"/>
+    <br>Hive
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48"/>
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" width="48"/>
+    <br>Linux
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=electron" width="48"/>
+    <br>Electron
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+    <br>VS Code
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" width="48"/>
+    <br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ai" width="48"/>
+    <br>AI
+  </td>
+</tr>
+
 </table>
 
-<div align="center">
+<br><br>
 
-<br/>
-
-> ### *"Build. Learn. Improve. Repeat."*
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tariq--/"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
-<a href="mailto:tariq124@gmail.com"><img src="https://img.shields.io/badge/Gmail-00D4FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
-<a href="https://github.com/TARQkop"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
-<a href="https://portfolio-tariq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=0D1117&amp;labelColor=0D1117" height="42"/></a>
-
-<br/><br/>
-
-**💼 Professional Inquiries** → [LinkedIn](https://www.linkedin.com/in/tariq--/)
-**📧 Direct Contact** → tariq124@gmail.com
-**💻 Collaboration** → Open an issue or discussion on GitHub
-**🌐 Portfolio** → [portfolio-tariq.vercel.app](https://portfolio-tariq.vercel.app/)
-
-<br/>
-
-⭐ *If my journey resonates with you, consider following along.*
-*Building in public · Learning together · Growing consistently*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0080FF,50:00D4FF,100:0D1117&amp;height=180&amp;section=footer"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
 </div>
