@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=IT+Student;Flutter+Developer;Full-Stack+Developer;AI+Application+Developer" height="70" />
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjdTE5MWFicTZsOWpkaGY3YW5zM2xjODhqMzlrb3hmM2JtMW8xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IRwEAOdfiCkHjw1DWB/giphy.gif" width="100%" />
+</p>
+
 <br>
 
 <table align="center">
